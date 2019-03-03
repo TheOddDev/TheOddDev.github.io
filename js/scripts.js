@@ -1,4 +1,4 @@
-const movementReductionValue = 50;
+const movementReductionValue = 5;
 const body = document.querySelector('body');
 const banner = document.querySelector('#banner');
 
