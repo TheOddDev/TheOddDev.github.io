@@ -11,7 +11,7 @@ html, body {
     position: absolute;
     height: 25rem;
     width: 100%;
-    top: calc(50% - 23.5rem);
+    top: calc(50% - 12.5rem);
     background: #607D8B;
 }
 
