@@ -25,7 +25,7 @@ html, body {
 
 #badge-container {
     position: absolute;
-    top: calc(50% - 12.5rem - 1rem)
+    top: calc(50% - 12.5rem - 1rem);
     right: 2rem;
     padding: 0.8rem 1rem;
     background: #263238;
