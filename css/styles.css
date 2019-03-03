@@ -12,12 +12,10 @@ html, body {
 }
 
 #banner-container {
-    height: calc(100% - 2 * var(--banner-padding));
-    min-height: 20rem;
+    position: absolute;
+    height: 25rem);
     width: 100%;
-    margin: auto;
-    margin-top: var(--banner-padding);
-    bottom: var(--banner-padding);
+    top: calc(50% - 23.5rem);
     background: #607D8B;
 }
 
@@ -31,9 +29,8 @@ html, body {
 
 #badge-container {
     position: absolute;
-    top: var(--banner-padding);
+    top: calc(50% - 12.5rem - 1rem)
     right: 2rem;
-    margin-top: -1rem;
     padding: 0.8rem 1rem;
     background: #263238;
     border-radius: 0.1rem;
