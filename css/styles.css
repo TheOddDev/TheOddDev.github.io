@@ -1,7 +1,3 @@
-:root {
-    --banner-padding: 10rem; 
-}
-
 html, body {
     height: 100%;
     width: 100%;
@@ -13,7 +9,7 @@ html, body {
 
 #banner-container {
     position: absolute;
-    height: 25rem);
+    height: 25rem;
     width: 100%;
     top: calc(50% - 23.5rem);
     background: #607D8B;
